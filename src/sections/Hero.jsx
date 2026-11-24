@@ -24,6 +24,8 @@ const Hero = () => {
 				scrub: 2.5,
 				end: '+=200%',
 				pin: true,
+				// markers: true,
+				anticipatePin: 1,
 			},
 		});
 
